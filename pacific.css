@@ -147,7 +147,7 @@ tr:nth-last-of-type(odd) {
 }
 form {
     display: flex;
-    flex-flow: columm nowrap;
+    flex-flow: column nowrap;
 }
 input, textarea {
     margin-bottom: 0.5em;
